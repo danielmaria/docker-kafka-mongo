@@ -1,0 +1,4 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(þ ÙÂøÿÿÿÿ
+ì
+java:S1598"ÐThis file "Application.java" should be located in "com/example/kafka/KafkaApi" directory, not in "/home/daniel/dev/workspace/kafka-example/movimentacao-financeira/src/main/java/br.com.exemplo/kafka/KafkaApi".(þ ÙÂøÿÿÿÿ

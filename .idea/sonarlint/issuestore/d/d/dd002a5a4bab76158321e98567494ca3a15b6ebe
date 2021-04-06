@@ -1,0 +1,4 @@
+
+ø
+java:S1598"ÜThis file "SimpleModel.java" should be located in "com/example/kafka/KafkaApi/model" directory, not in "/home/daniel/dev/workspace/kafka-example/movimentacao-financeira/src/main/java/br.com.exemplo/kafka/KafkaApi/model".(ðÐéÊüÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ðÐéÊüÿÿÿÿ

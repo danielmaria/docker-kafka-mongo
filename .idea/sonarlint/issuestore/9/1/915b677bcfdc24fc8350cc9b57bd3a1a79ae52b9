@@ -1,0 +1,7 @@
+
+å
+java:S1598"ÉThis file "KafkaConfig.java" should be located in "com/example/odd/api/config" directory, not in "/home/daniel/dev/workspace/kafka-example/notificacoes-sms/src/main/java/com/br.com/exemplo/api/config".(¶¼ú‡ýÿÿÿÿ
+i
+java:S1128"SRemove this unused import 'org.apache.kafka.common.serialization.StringSerializer'.(Þ ¾þ
+c
+java:S1128"MRemove this unused import 'org.apache.kafka.clients.producer.ProducerConfig'.(ýä¢ó

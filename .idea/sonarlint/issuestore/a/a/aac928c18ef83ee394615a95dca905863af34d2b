@@ -1,0 +1,6 @@
+
+‚
+java:S1598"æThis file "KafkaProducer.java" should be located in "com/example/kafka/KafkaApi/component" directory, not in "/home/daniel/dev/workspace/kafka-example/movimentacao-financeira/src/main/java/br.com.exemplo/kafka/KafkaApi/component".(©‘ºÚùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©‘ºÚùÿÿÿÿ
+L
+java:S1068"1Remove this unused "kafkaTemplate" private field.(—ÚàÉúÿÿÿÿ
